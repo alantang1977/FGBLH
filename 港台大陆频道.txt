@@ -1,5 +1,5 @@
 电报 xainrg(@uyu98) 整理
-更新日期: 2025-12-29
+更新日期: 2025-12-30
 ————————————————————————————————
 
 港台频道,#genre#
@@ -461,6 +461,7 @@ CCTV14少儿,http://183.7.172.159:8888/hls/30/index.m3u8
 龙华卡通,http://156.238.248.80/2099.php?id=110
 
 18+私密频道,#genre#
+极限电影台(免翻),http://iptvpro.pw:35451//live/加QQ群1041749599/11112222/987.ts
 极限电影台(梯子),http://z88.ubtvfans.com/live/rx3/2909/1f9debc5947d5756fec2908a357427e3/index.m3u8
 极限电影台(梯子),http://z88.ubtvfans.com/live/rx2/405/edbcd09f2865ec906139ec4677a87d4e/index.m3u8
 极限电影台(梯子),http://lc.aacalive.com:26789/i/ghjnvq5o/8c855fdf/index.m3u8
