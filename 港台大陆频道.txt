@@ -93,9 +93,9 @@ Now财经,http://rihou.cc:555/tv/[Mt]Now财经
 Now直播,http://hls.168.us.kg/u/331/master.m3u8
 Now直播,http://rihou.cc:555/tv/[Mt]Now直播
 Now直播,http://kkk.888.3116598.xyz/api.php?n=xxxtw&id=khk4lP&tk=rf2ptUUwLxlr
-Now紫金国际台(暂时看不了),http://hls-pull-wicketpw.speedws.com/live/hktv-kjfhslkdjngnlkdkgjdlkgjrkltjggrtlmagnowks0087.flv
-Now剧集(暂时看不了),http://hls-pull-wicketpw.speedws.com/live/hktv-kjfhslkdjngnlkdkgjdlkgjrkltjggrtlmagnowks0086.flv
-Now华剧台(暂时看不了),http://hls-pull-wicketpw.speedws.com/live/hktv-kjfhslkdjngnlkdkgjdlkgjrkltjggrtlmagnowks0085.flv
+Now紫金国际台,http://iptvpro.pw:35451/live/%E5%8A%A0QQ%E7%BE%A41041749599/11112222/36.ts
+Now Viu剧集,http://iptvpro.pw:35451/live/%E5%8A%A0QQ%E7%BE%A41041749599/11112222/33.ts
+Now华剧台,http://iptvpro.pw:35451/live/%E5%8A%A0QQ%E7%BE%A41041749599/11112222/34.ts
 Now体育,http://rihou.cc:555/tv/[Mt]Now体育
 镜新聞,https://d36dgdk71xuzzg.cloudfront.net/v1/manifest/3a2ac8e6b6c76471996ebf627393d9c9417a60b6/linetv-6-627778910172-MediaTailor-production/c9b2313d-efdd-4777-9fae-573be8a86755/0.m3u8
 镜新聞,http://rihou.cc:555/tv/[Hk]%E9%97%BD%E9%95%9C%E6%96%B0%E9%97%BB
@@ -174,16 +174,18 @@ CCTV6电影,http://kouki.pro:8888/udp/239.49.8.76:8000
 CCTV6电影,https://iptv.catvod.com/live.php?id=CCTV-6
 CHC家庭电影,http://27.41.245.32:801/hls/905/index.m3u8
 HBO HD,http://156.238.248.80/2099.php?id=362
+PopC电影,http://iptvpro.pw:35451/live/%E5%8A%A0QQ%E7%BE%A41041749599/11112222/45.ts
 PopC电影,P2p://starvod.xyz:19806/688bba7c000da6943214e2280ad91465.ts
 1905电影网,http://xxwx.yoesun.com/xxw/1905%E7%94%B5%E5%BD%B1%E7%BD%91.php?id=1905
 1905电影网,http://kkk.888.3116598.xyz/api.php?n=xxxtw&id=kPj5g5&tk=RutcEtui3ueC
 1905电影网,http://xxwx.yoesun.com/xxw/1905电影网.php?id=1905
+中国电影频道,http://iptvpro.pw:35451/live/%E5%8A%A0QQ%E7%BE%A41041749599/11112222/44.ts
 凤凰电影,http://39.107.120.164:8080/live/diyp_fhdy.m3u8
 凤凰电影,http://122.224.58.42:85/tsfile/live/1022_1.m3u8?key=txiptv&playlive=1&authid=0%24%E6%B5%99%E6%B1%9F/%E7%BB%8D%E5%85%B4/%E7%94%B5%E4%BF%A1
 凤凰电影,http://iot-mqqt.111yao.cn:8080/live/diyp_fhdy.m3u8
 美亚电影台HD,http://iptv.4666888.xyz/iptv2A.php?id=30
 美亚电影台HD,P2p://starvod.xyz:19806/f9cdad09f3cc47bc83ba1d94167ebe64.ts
-美亚电影,http://kkk.888.3116598.xyz/api.php?n=xxxtw&id=I7p49K&tk=RutcEtui3ueC
+美亚电影,http://iptvpro.pw:35451/live/%E5%8A%A0QQ%E7%BE%A41041749599/11112222/42.ts
 美亚电影,http://156.238.248.80/2099.php?id=129
 美亚电影,http://rihou.cc:555/tv/[PL]美亚电影
 美亚电影,http://php.jdshipin.com/TVOD/iptv.php?id=meiya
