@@ -55,8 +55,10 @@ TVB功夫720p,https://cdn6.101.qzz.io/163189/yzwx
 TVB功夫720p,P2p://starvod.xyz:19806/6043814031384523bc272f4f87aeb298.ts
 TVB娱乐新闻台720p,https://cdn6.101.qzz.io/163189/ylxw
 TVB娱乐新闻台720p,http://rihou.cc:555/tv/[PL]无线娱乐
-ViuTV,https://cdn.163189.xyz/163189/viu
-ViuTV,https://cdn.163189.xyz/163189/viu
+ViuTV 1080p,https://stream1.freetv.fun/5fc2ba313b387d2b2538a2e46aee6266cc10890fc8b8ccf478498b82af6f7c3b.m3u8
+ViuTV 1080p,https://stream1.freetv.fun/45181db55db70a3fc349faf2ef2b901599a9cbc7106f2674134cac2db74b2f81.m3u8
+ViuTV 1080p,https://cdn.163189.xyz/163189/viu
+ViuTV6 1080p,https://stream1.freetv.fun/732f193d67c8884d4ea74fab208403ff6495f2298e32f33ffbb019c1171ac507.ctv
 RHK31,http://156.238.248.80/2099.php?id=141
 RHK31,https://live.catvod.com/iptv.php?id=rthk31
 RHK31,http://php.jdshipin.com/TVOD/iptv.php?id=rthk31
@@ -186,7 +188,8 @@ CH8综合,http://rihou.cc:555/tv/[Pd]CH8综合
 东森戏剧HD,http://156.238.248.80/2099.php?id=359
 
 电影频道,#genre#
-Now星影台(粤)1080P,http://74.91.26.218:82/live/nowxy.m3u8
+Now星影台(粤)1080p,http://74.91.26.218:82/live/nowxy.m3u8
+Now星影台(粤)1080p,https://stream1.freetv.fun/b56bee75906bfad78f50f3eccffccdc4ed2dfe763f4fd01135948baae9af8e35.m3u8
 CCTV6电影,http://tvlist.top/jd/index.php?id=cctv6&qt=118.212.78.251:8014
 CCTV6电影,http://yp.qqqtv.top/1/api.php?id=CCTV-6HD&auth=666858
 CCTV6电影,http://kouki.pro:8888/udp/239.49.8.76:8000
