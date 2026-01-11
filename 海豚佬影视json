@@ -36,64 +36,32 @@
         }
     ],
     "sites": [
-      {
-            "key": "百万资源|AV",
-            "name": "🔞百万资源|AV",
-            "type": 1,
-            "api": "https://api.bwzym3u8.com/api.php/provide/vod/",
-            "quickSearch": 1,
-            "searchable": 1,
-            "filterable": 0
+   {   "key": "腾讯视频",
+            "name": "腾讯｜视频",
+            "type": 3,
+            "api": "https://wget.la/raw.githubusercontent.com/PizazzGY/NewTVBox/main/js/drpy2.min.js",
+            "ext": "https://wget.la/raw.githubusercontent.com/PizazzGY/NewTVBox/main/movie/js/TXSP.js"
         },
-    {"key": "qysp",
-        "name": "奇艺┃视频",
-        "type": 3,
-        "api": "MJS_qysp"       ,
-        "searchable": 1,
-        "quickSearch": 1,
-        "filterable": 1,
-        "ext": "http://www.meowtv.cn/js/meow.php?file=qysp",
-        "api": "http://www.meowtv.cn/js/drpy2.min.js"
+        {
+            "key": "优酷视频",
+            "name": "优酷｜视频",
+            "type": 3,
+            "api": "https://wget.la/raw.githubusercontent.com/PizazzGY/NewTVBox/main/js/drpy2.min.js",
+            "ext": "https://wget.la/raw.githubusercontent.com/PizazzGY/NewTVBox/main/movie/js/YKSP.js"
         },
-    {"key": "txsp",
-        "name": "腾讯┃视频",
-        "type": 3,
-        "api": "MJS_txsp"       ,
-        "searchable": 1,
-        "quickSearch": 1,
-        "filterable": 1,
-        "ext": "http://www.meowtv.cn/js/meow.php?file=txsp",
-        "api": "http://www.meowtv.cn/js/drpy2.min.js"
+        {
+            "key": "芒果视频",
+            "name": "芒果｜视频",
+            "type": 3,
+            "api": "https://wget.la/raw.githubusercontent.com/PizazzGY/NewTVBox/main/js/drpy2.min.js",
+            "ext": "https://wget.la/raw.githubusercontent.com/PizazzGY/NewTVBox/main/movie/js/MGSP.js"
         },
-    {"key": "yksp",
-        "name": "优酷┃视频",
-        "type": 3,
-        "api": "MJS_yksp"       ,
-        "searchable": 1,
-        "quickSearch": 1,
-        "filterable": 1,
-        "ext": "http://www.meowtv.cn/js/meow.php?file=yksp",
-        "api": "http://www.meowtv.cn/js/drpy2.min.js"
-        },
-    {"key": "mgsp",
-        "name": "芒果┃视频",
-        "type": 3,
-        "api": "MJS_mgsp"       ,
-        "searchable": 1,
-        "quickSearch": 1,
-        "filterable": 1,
-        "ext": "http://www.meowtv.cn/js/meow.php?file=mgsp",
-        "api": "http://www.meowtv.cn/js/drpy2.min.js"
-        },
-    {"key": "sgys",
-        "name": "搜狗┃视频",
-        "type": 3,
-        "api": "MJS_sgys"       ,
-        "searchable": 1,
-        "quickSearch": 1,
-        "filterable": 1,
-        "ext": "http://www.meowtv.cn/js/meow.php?file=sgsp",
-        "api": "http://www.meowtv.cn/js/drpy2.min.js"
+        {
+            "key": "爱奇艺",
+            "name": "爱奇艺｜视频",
+            "type": 3,
+            "api": "https://wget.la/raw.githubusercontent.com/PizazzGY/NewTVBox/main/js/drpy2.min.js",
+            "ext": "https://wget.la/raw.githubusercontent.com/PizazzGY/NewTVBox/main/movie/js/AQY.js"
         },
         {
             "key": "配置",
@@ -107,7 +75,6 @@
                 "ratio": 1.297
             }
         },
-       
         {
             "key": "push_agent",
             "name": "⛽手机┃推送",
