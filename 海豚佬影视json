@@ -51,9 +51,9 @@
             "filterable": 1,
             "ext": "https://gitee.com/abiubiud/xxs/raw/main/dr2/暖光影视.js"
         },
-//{"key": "iqiyi"            ,"name":"🥝爱奇艺(p)","type":4,"api": "http://home.jundie.top:666/psp/iqiyi.php?key=signTest","searchable": 1,"quickSearch": 1,"filterable": 1},
-//{"key": "qq"               ,"name":"🐧腾讯(p)","type":4,"api": "http://home.jundie.top:666/psp/qq.php?key=signTest","searchable": 1,"quickSearch": 1,"filterable": 1},
-//{"key": "youku"            ,"name":"🐞优酷(p)","type":4,"api": "http://home.jundie.top:666/psp/youku.php?key=signTest","searchable": 1,"quickSearch": 1,"filterable": 1},
+{"key": "iqiyi"            ,"name":"🥝爱奇艺(p)","type":4,"api": "http://home.jundie.top:666/psp/iqiyi.php?key=signTest","searchable": 1,"quickSearch": 1,"filterable": 1},
+{"key": "qq"               ,"name":"🐧腾讯(p)","type":4,"api": "http://home.jundie.top:666/psp/qq.php?key=signTest","searchable": 1,"quickSearch": 1,"filterable": 1},
+{"key": "youku"            ,"name":"🐞优酷(p)","type":4,"api": "http://home.jundie.top:666/psp/youku.php?key=signTest","searchable": 1,"quickSearch": 1,"filterable": 1},
 {"key":"csp_QQ"            ,"name":"🐧腾讯QQ","type":3,"api":"csp_QQ","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"csp_IQIYI"         ,"name":"🥝爱奇艺","type":3,"api":"csp_IQIYI","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"csp_MGTV"          ,"name":"🍋芒果Tv","type":3,"api":"csp_MGTV","searchable":1,"quickSearch":1,"filterable":1},
