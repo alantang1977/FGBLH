@@ -39,7 +39,7 @@ Celestial Classic,https://sto.ufile.eu.org/smt.php?id=Celestial2&h=sto.ufile.eu.
 Rock Actions,https://sto.ufile.eu.org/smt.php?id=Rockaction&h=sto.ufile.eu.org&p=22364
 Rock Entertainment,https://sto.ufile.eu.org/smt.php?id=Rockentertain&h=sto.ufile.eu.org&p=22364
 
-📺新聞频道,#genre#
+📺新聞,#genre#
 ABC News,https://sto.ufile.eu.org/smt.php?id=abcnews_glo&h=sto.ufile.eu.org&p=22364
 iNews 互動新聞台,https://sto.ufile.eu.org/smt.php?id=inews_twn&h=sto.ufile.eu.org&p=22364
 CBS HD,https://sto.ufile.eu.org/smt.php?id=cbshd_glo&h=sto.ufile.eu.org&p=22364
@@ -233,6 +233,8 @@ CCTV-2 財經,https://sto.ufile.eu.org/smt.php?id=cctv2&h=sto.ufile.eu.org&p=223
 CCTV-3 綜藝,https://sto.ufile.eu.org/smt.php?id=cctv3&h=sto.ufile.eu.org&p=22364
 CCTV-4 中文國際,https://sto.ufile.eu.org/smt.php?id=Cctv4&h=sto.ufile.eu.org&p=22364
 CCTV-4 中文國際 (備:1),https://sto.ufile.eu.org/smt.php?id=cctv4&h=sto.ufile.eu.org&p=22364
+CCTV-5 體育,https://sto.ufile.eu.org/smt.php?id=cctv5&h=sto.ufile.eu.org&p=22364
+CCTV-5+ 體育赛事,https://sto.ufile.eu.org/smt.php?id=cctv5plus&h=sto.ufile.eu.org&p=22364
 CCTV-6 電影,https://sto.ufile.eu.org/smt.php?id=cctv6&h=sto.ufile.eu.org&p=22364
 CCTV-7 軍事農業,https://sto.ufile.eu.org/smt.php?id=cctv7&h=sto.ufile.eu.org&p=22364
 CCTV-8 電視劇,https://sto.ufile.eu.org/smt.php?id=cctv8hd&h=sto.ufile.eu.org&p=22364
@@ -240,15 +242,15 @@ CCTV-9 紀錄,https://sto.ufile.eu.org/smt.php?id=cctv9hd&h=sto.ufile.eu.org&p=2
 CCTV-10 科教,https://sto.ufile.eu.org/smt.php?id=cctv10hd&h=sto.ufile.eu.org&p=22364
 CCTV-11 戲曲,https://sto.ufile.eu.org/smt.php?id=cctv11&h=sto.ufile.eu.org&p=22364
 CCTV-12 社會與法,https://sto.ufile.eu.org/smt.php?id=cctv12&h=sto.ufile.eu.org&p=22364
+CCTV-13 新聞與頻道,https://sto.ufile.eu.org/smt.php?id=cctv13&h=sto.ufile.eu.org&p=22364
 CCTV-14 少兒,https://sto.ufile.eu.org/smt.php?id=cctv14&h=sto.ufile.eu.org&p=22364
 CCTV-15 音樂,https://sto.ufile.eu.org/smt.php?id=cctv15&h=sto.ufile.eu.org&p=22364
 湖南卫视,https://sto.ufile.eu.org/smt.php?id=hunan_twn&h=sto.ufile.eu.org&p=22364
 浙江卫视,https://sto.ufile.eu.org/smt.php?id=zhejiang_twn&h=sto.ufile.eu.org&p=22364
 江苏卫视,https://sto.ufile.eu.org/smt.php?id=jiangsu_twn&h=sto.ufile.eu.org&p=22364
-CCTV-13 新聞與頻道,https://sto.ufile.eu.org/smt.php?id=cctv13&h=sto.ufile.eu.org&p=22364
 深圳卫视,https://sto.ufile.eu.org/smt.php?id=shenzhen&h=sto.ufile.eu.org&p=22364
 福建东南卫视,https://sto.ufile.eu.org/smt.php?id=fujian&h=sto.ufile.eu.org&p=22364
-广东南方卫视,https://sto.ufile.eu.org/smt.php?id=nanfang_twn&h=sto.ufile.eu.org&p=22364
+广东大湾区卫视,https://sto.ufile.eu.org/smt.php?id=nanfang_twn&h=sto.ufile.eu.org&p=22364
 广东卫视,https://sto.ufile.eu.org/smt.php?id=guangdongweishi_twn&h=sto.ufile.eu.org&p=22364
 北京卫视,https://sto.ufile.eu.org/smt.php?id=beijing&h=sto.ufile.eu.org&p=22364
 珠江台,https://sto.ufile.eu.org/smt.php?id=zhujiang&h=sto.ufile.eu.org&p=22364
@@ -256,8 +258,6 @@ CCTV-13 新聞與頻道,https://sto.ufile.eu.org/smt.php?id=cctv13&h=sto.ufile.e
 CGTN,https://sto.ufile.eu.org/smt.php?id=CGTN&h=sto.ufile.eu.org&p=22364
 湖北卫视,https://sto.ufile.eu.org/smt.php?id=hubei&h=sto.ufile.eu.org&p=22364
 四川卫视,https://sto.ufile.eu.org/smt.php?id=sichuan_twn&h=sto.ufile.eu.org&p=22364
-CCTV-5 體育,https://sto.ufile.eu.org/smt.php?id=cctv5&h=sto.ufile.eu.org&p=22364
-CCTV-5+ 體育,https://sto.ufile.eu.org/smt.php?id=cctv5plus&h=sto.ufile.eu.org&p=22364
 东方卫视,https://sto.ufile.eu.org/smt.php?id=dongfangweishi_twn&h=sto.ufile.eu.org&p=22364
 凤凰卫视,https://sto.ufile.eu.org/smt.php?id=phoenixtv_hd&h=sto.ufile.eu.org&p=22364
 鳳凰資訊,https://sto.ufile.eu.org/smt.php?id=phoenixinfo_hd&h=sto.ufile.eu.org&p=22364
