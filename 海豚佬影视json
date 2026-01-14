@@ -263,14 +263,6 @@
 "ext": {"classes": [{"type_name": "酷狗",
 "type_id": "kugou"}]}}, 
     {
-      "key": "酷狗",
-      "name": "🐬酷狗音乐2｜音乐",
-      "type": 3,
-      "api": "csp_Kugou",
-      "searchable": 1,
-      "changeable": 0
-    },
-    {
 			"key": "网易云音乐",
 			"name": "🐬网易云｜音乐",
 			"type": 3,
