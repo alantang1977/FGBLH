@@ -94,6 +94,7 @@ HOY78 1080p,http://iptv.4666888.xyz/iptv2A.php?id=31
 Now新闻台1080p,http://hls.168.us.kg/u/332/master.m3u8
 Now新闻台1080p,http://rihou.cc:555/tv/[Mt]Now新闻
 Now新闻台1080p,https://cdn.163189.xyz/163189/now
+Now新闻台1080p,http://rihou.cc:555/tv/[Cx]Now新闻
 Now财经1080p,http://hls.168.us.kg/u/333/master.m3u8
 Now财经1080p,http://rihou.cc:555/tv/[Mt]Now财经
 Now直播1080p,https://stream1.freetv.fun/2513c26261a06c512471eb0ad14c99576978654e8e494c2a8cd6571c3a3b7c50.ctv
@@ -105,33 +106,24 @@ Now体育1080p,http://rihou.cc:555/tv/[Mt]Now体育
 中天新聞1080p,https://stream1.freetv.fun/86c4bbf39b7ba14b8f7929428df4d9a5e150a79aeb6556a6f758524334e04a66.m3u8
 中天新聞1080p,https://stream1.freetv.fun/1b67bc523c86ffa05707cd3f9471cfe1ced1c17d0537471788e00679a1d6cde3.m3u8
 中天新聞480p,https://stream1.freetv.fun/4c8e6b3157fb284596bc1c4e59bc9d2536a4570785dd96194a44a8d175a156bb.m3u8
+中天新聞720p,http://free.cnlive.club/channel/41d5ac2a.m3u8?q=111.170.171.148
 中天新聞720p,https://stream1.freetv.fun/d0dc419e572496e04901fdd844b4f116a46a43cf2651e93153312310bd703995.m3u8
 中天新聞720p,https://stream1.freetv.fun/966a882718752fcf477567b8ecca5a53feb6bbf6b7e60a8d1030f9be6892c25d.m3u8
 中天新聞720p,http://rihou.cc:555/tv/[Hk]%E4%B8%AD%E5%A4%A9%E6%96%B0%E8%81%9E
-CTS華視新聞资讯,http://iptvpro.pw:35451/live/加QQ群1078393318领福利/66661111/169.ts
-CTS華視新聞资讯,http://220.135.64.124:5050/of-4gtv-4gtv052/index.m3u8?proxy=true
-中視新聞HD,http://iptvpro.pw:35451/live/加QQ群1078393318领福利/66661111/168.ts
-中視新聞HD,http://220.135.64.124:5050/of-4gtv-4gtv074/index.m3u8?proxy=true
-中視新聞HD,http://165.154.226.214:50007/of-4gtv-4gtv040/index.m3u8?proxy=true
-台視新聞HD,http://iptvpro.pw:35451/live/加QQ群1078393318领福利/66661111/174.ts
-台視新聞HD,https://zhong9527.dpdns.org/m3u8/ts369789.m3u8
-東森新聞台HD,http://iptvpro.pw:35451/live/加QQ群1078393318领福利/66661111/162.ts
-東森新聞台HD,http://156.238.248.80/2099.php?id=357
-東森新聞台HD,http://free.cnlive.club/channel/n88aa83/index.m3u8?q=1760217407316
-東森新聞台HD,http://165.154.226.214:50007/li-4gtv-4gtv152/index.m3u8?proxy=true
-東森新聞台HD,http://156.238.248.80/2099.php?id=363
-民視新聞台,http://iptvpro.pw:35451/live/加QQ群1078393318领福利/66661111/164.ts
-民視新聞台,http://165.154.226.214:50007/li-litv-ftv13/index.m3u8?proxy=true
-非凡新聞HD,http://iptv.4666888.xyz/iptv2A.php?id=44
-非凡新聞HD,rtmp://f13h.mine.nu/sat/tv581
-寰宇新聞台,http://rihou.cc:555/tv/[Hk]寰宇新闻
-TVBS新聞台HD,http://iptv.4666888.xyz/iptv2A.php?id=43
-TVBS新聞台HD,http://156.238.248.80/2099.php?id=361
-中天娱乐HD,http://156.238.248.80/2099.php?id=355
-中天综合HD,http://156.238.248.80/2099.php?id=353
+CTS華視新聞资讯1080p,http://220.135.64.124:5050/of-4gtv-4gtv052/index.m3u8?proxy=true
+中視新聞HD 1080p,http://220.135.64.124:5050/of-4gtv-4gtv074/index.m3u8?proxy=true
+中視新聞HD 720p,http://free.cnlive.club/channel/428f1dfa.m3u8?q=111.170.171.148
+東森新聞台HD 720p,http://free.cnlive.club/channel/n88aa83/index.m3u8?q=1760217407316
+東森新聞台HD 720p,http://free.cnlive.club/channel/n88aa83.m3u8?q=111.170.171.148
+民視新聞台720p,http://free.cnlive.club/channel/n4b747ee6.m3u8?q=111.170.171.148
+年代新聞HD 1080p,http://free.cnlive.club/channel/49184630.m3u8?q=111.170.171.148
+非凡新聞HD 1080p,http://iptv.4666888.xyz/iptv2A.php?id=44
+寰宇新聞台720p,http://free.cnlive.club/channel/n43c34be8.m3u8?q=111.170.171.148
+TVBS新聞台HD 1080p,http://iptv.4666888.xyz/iptv2A.php?id=43
+中天娱乐HD 1080p,http://free.cnlive.club/channel/41d6f491.m3u8?q=111.170.171.148
+中天综合HD 1080p,http://free.cnlive.club/channel/41db6ede.m3u8?q=111.170.171.148
 华视HD,rtmp://f13h.mine.nu/sat/tv111
-中視HD,rtmp://f13h.mine.nu/sat/tv091
-中視HD,http://141.11.87.241:20013/li-4gtv-4gtv040/index.m3u8?proxy=true
+中視HD 1080,http://165.154.226.214:50007/of-4gtv-4gtv040/index.m3u8?proxy=true
 台視HD,http://165.154.226.214:50007/li-4gtv-4gtv066/index.m3u8?proxy=true
 台視HD,rtmp://f13h.mine.nu/sat/tv071
 台视综合HD,http://iptv.4666888.xyz/iptv2A.php?id=51
@@ -198,6 +190,7 @@ PopC电影,P2p://starvod.xyz:19806/688bba7c000da6943214e2280ad91465.ts
 CATCHPLAY电影,https://live.catvod.com/live.php?id=catchplay_twn
 AMC电影台,https://live.catvod.com/live.php?id=starmoviesgold_twn
 淘电影1080p,http://ydl.yueyaoxian.top:8686/rtp/239.3.1.250:8001
+好莱坞电影1080p,http://free.cnlive.club/channel/n2db95de5.m3u8?q=111.170.171.148
 凤凰电影,http://39.107.120.164:8080/live/diyp_fhdy.m3u8
 凤凰电影,http://122.224.58.42:85/tsfile/live/1022_1.m3u8?key=txiptv&playlive=1&authid=0%24%E6%B5%99%E6%B1%9F/%E7%BB%8D%E5%85%B4/%E7%94%B5%E4%BF%A1
 凤凰电影,http://iot-mqqt.111yao.cn:8080/live/diyp_fhdy.m3u8
@@ -226,7 +219,7 @@ AMC电影台,https://live.catvod.com/live.php?id=starmoviesgold_twn
 龙华电影,P2p://starvod.xyz:19806/574ee66b78d44e6e81450ae523041523.ts
 龙华洋片,https://live.catvod.com/iptv.php?id=lhyp01
 龙华洋片,http://156.238.248.80/2099.php?id=117
-緯來電影HD,https://live.catvod.com/live.php?id=videolandmovie
+緯來電影HD 1080p,http://free.cnlive.club/channel/581b458b.m3u8?q=111.170.171.148
 
 大陆频道,#genre#
 CCTV1综合,http://iptv.4666888.xyz/iptv2A.php?id=7
