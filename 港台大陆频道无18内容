@@ -125,10 +125,10 @@ CTS華視新聞资讯1080p,http://220.135.64.124:5050/of-4gtv-4gtv052/index.m3u8
 TVBS新聞台HD 1080p,http://iptv.4666888.xyz/iptv2A.php?id=43
 中天娱乐HD 1080p,http://free.cnlive.club/channel/41d6f491.m3u8?q=111.170.171.148
 中天综合HD 1080p,http://free.cnlive.club/channel/41db6ede.m3u8?q=111.170.171.148
-华视HD,rtmp://f13h.mine.nu/sat/tv111
+华视HD 720P,rtmp://f13h.mine.nu/sat/tv111
 中視HD 1080,http://165.154.226.214:50007/of-4gtv-4gtv040/index.m3u8?proxy=true
-台視HD,http://165.154.226.214:50007/li-4gtv-4gtv066/index.m3u8?proxy=true
-台視HD,rtmp://f13h.mine.nu/sat/tv071
+台視HD 1080P,http://165.154.226.214:50007/li-4gtv-4gtv066/index.m3u8?proxy=true
+台視HD 720P,rtmp://f13h.mine.nu/sat/tv071
 台视综合HD,http://iptv.4666888.xyz/iptv2A.php?id=51
 台视综合HD,http://mypanel-4k.com:80/me52pjdqa6/dt2t9r16ja/283891
 台视综合HD,P2p://starvod.xyz:19806/c37a6ec58dd140ccab0e25b94849ee06.ts
@@ -170,15 +170,17 @@ CH8综合,http://rihou.cc:555/tv/[Pd]CH8综合
 八度空间,http://iptv.4666888.xyz/iptv2A.php?id=52
 亚洲卫视,https://p2hs.vzan.com/slowlive/821481626725612419/live.m3u8
 环球电视台,http://utv1.hqtvzb.com:9999/hls/world.m3u8
-澳视澳门,https://cdn6.101.qzz.io/163189/asam
-澳视澳门,http://iptv.4666888.xyz/iptv2A.php?id=41
-澳视Macau,http://php.jdshipin.com/TVOD/iptv.php?id=as
+澳视澳门1080p,https://cdn6.101.qzz.io/163189/asam
+澳视澳门1080p,http://iptv.4666888.xyz/iptv2A.php?id=41
+澳视Macau 1080p,http://php.jdshipin.com/TVOD/iptv.php?id=as
+澳视Macau 1080p,https://cdn6.101.qzz.io/163189/as
+澳门综艺1080p,https://cdn6.101.qzz.io/163189/amzy
 澳门体育1080p,http://cdn6.veryfast.filegear-sg.me/live/amty/stream.m3u8
-星空卫视,http://iot-mqqt.111yao.cn:8080/live/diyp_xingkong.m3u8
-东森综合HD,http://156.238.248.80/2099.php?id=356
-东森戏剧HD,http://156.238.248.80/2099.php?id=359
+澳门体育1080p,https://cdn6.101.qzz.io/163189/amty
+星空卫视576P,http://iot-mqqt.111yao.cn:8080/live/diyp_xingkong.m3u8
 
 电影频道,#genre#
+澳门莲花1080p,https://cdn6.101.qzz.io/163189/amlh
 Now星影台(粤)576p,http://74.91.26.218:82/live/nowxy.m3u8
 Now星影台(粤)576p,https://stream1.freetv.fun/b56bee75906bfad78f50f3eccffccdc4ed2dfe763f4fd01135948baae9af8e35.m3u8
 CCTV6电影,http://tvlist.top/jd/index.php?id=cctv6&qt=118.212.78.251:8014
