@@ -360,6 +360,38 @@
             }
         },
         {
+      "name": "OJBK",
+      "type": 0,
+      "url": "https://jmwl.qd234.cn/v/?v=",
+      "ext": {
+        "flag": [
+          "ltnb",
+          "renrenmi",
+          "rx",
+          "xfyun",
+          "muxm3u8",
+          "xigua",
+          "xueren",
+          "qq",
+          "腾讯",
+          "qiyi",
+          "爱奇艺",
+          "奇艺",
+          "youku",
+          "优酷",
+          "mgtv",
+          "芒果",
+          "bilibili",
+          "哔哩哔哩",
+          "哔哩",
+          "pptv",
+          "PPTV",
+          "sohu",
+          "letv"
+        ]
+      }
+    },
+         {
             "name": "春天",
             "type": 0,
             "url": "https://jx.2s0.cn/player/?url="
