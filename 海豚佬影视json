@@ -360,6 +360,53 @@
             }
         },
          {
+      "name": "太空",
+      "type": 1,
+      "url": "http://124.222.68.182/jiexi/4kJX.php/?url=",
+      "ext": {
+        "flag": [
+          "qq",
+          "腾讯",
+          "qiyi",
+          "爱奇艺",
+          "奇艺",
+          "youku",
+          "优酷",
+          "sohu",
+          "搜狐",
+          "letv",
+          "乐视",
+          "mgtv",
+          "芒果",
+          "CL4K",
+          "renrenmi",
+          "ltnb",
+          "bilibili",
+          "1905",
+          "xigua"
+        ]
+      }
+    },
+        {
+      "name": "飓风影院2",
+      "type": 1,
+      "url": "https://vvip.funsline.cn/api/?key=3xWfEoDf4V9p9Y20CR&url=",
+      "ext": {
+        "flag": [
+          "ziqie",
+          "youku",
+          "优酷",
+          "qiyi",
+          "爱奇艺",
+          "奇艺",
+          "mgtv",
+          "芒果",
+          "qq",
+          "腾讯"
+        ]
+      }
+    },
+        {
             "name": "春天",
             "type": 0,
             "url": "https://jx.2s0.cn/player/?url="
