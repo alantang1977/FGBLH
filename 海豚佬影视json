@@ -57,17 +57,6 @@
         "ext": "http://www.meowtv.cn/js/meow.php?file=sgsp",
         "api": "http://www.meowtv.cn/js/drpy2.min.js"
         },
-       {
-      "key": "二小",
-      "name": "🐬二小┃4K",
-      "type": 3,
-      "api": "csp_ErXiaoGuard",
-      "searchable": 1,
-      "quickSearch": 1,
-      "changeable": 1,
-      "filterable": 1,
-      "timeout": 25,
-    },
     {
       "key": "双星",
       "name": "🐬双星┃4K",
@@ -79,28 +68,6 @@
       "style": {
         "type": "list"
       },
-      {
-      "key": "雄鹰",
-      "name": "🦅雄鹰┃App",
-      "type": 3,
-      "api": "csp_XiongYingGuard",
-      "searchable": 1,
-      "quickSearch": 1,
-      "changeable": 0,
-      "filterable": 1,
-      "timeout": 10,
-    },
-    {
-      "key": "鲸鱼",
-      "name": "🐳鲸鱼┃App",
-      "type": 3,
-      "api": "csp_JingYuGuard",
-      "searchable": 1,
-      "quickSearch": 1,
-      "changeable": 0,
-      "filterable": 1,
-      "timeout": 10,
-    }, 
       {
       "key": "量子2k",
       "name": "🐬量子影视｜追剧",
