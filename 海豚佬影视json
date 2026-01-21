@@ -57,27 +57,6 @@
         "ext": "http://www.meowtv.cn/js/meow.php?file=sgsp",
         "api": "http://www.meowtv.cn/js/drpy2.min.js"
         },
-        {
-      "key": "玩偶",
-      "name": "🐬玩偶┃4K",
-      "type": 3,
-      "api": "csp_WoggGuard",
-      "searchable": 1,
-      "filterable": 1,
-      "changeable": 1,
-      "timeout": 30
-       },
-       {
-      "key": "至臻",
-      "name": "🐬至臻┃4K",
-      "type": 3,
-      "api": "csp_ZhiZhenGuard",
-      "searchable": 1,
-      "quickSearch": 1,
-      "changeable": 1,
-      "filterable": 1,
-      "timeout": 25
-    },
        {
       "key": "量子2k",
       "name": "🐬量子影视｜追剧",
