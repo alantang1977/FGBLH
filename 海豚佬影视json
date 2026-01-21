@@ -84,13 +84,6 @@
         "喜剧片"
       ]
       },
-        {
-            "key": "绝对影视",
-            "name": "🐬绝对影视｜追剧",
-            "type": 3,
-            "jar":"https://gitee.com/nm_nm/interface/raw/master/spider.jar;md5;06094f7f426755b6dd338459069a4e95",             "api": "csp_FourK",
-            "ext": "https://www.4kvm.tv"
-        },
        {
 			"key": "爱瓜TV",
 			"name": "🐬爱瓜TV｜追剧",
