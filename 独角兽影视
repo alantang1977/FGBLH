@@ -608,12 +608,6 @@
             "url": "https://bc.188766.xyz/?url=https://live.188766.xyz&mishitong=true&mima=bingcha1130&huikan=en&json=true"
         }, 
         {
-            "name": "🦄anboxtv(免翻)",
-            "type": 0,
-            "ua": "okhttp/5.3.2",
-            "url": "https://tv.anboxtv.online/tv"
-        },
-        {
             "name": "🦄litv直播(梯子)",
             "type": 0,
             "ua": "okhttp/5.3.2",
