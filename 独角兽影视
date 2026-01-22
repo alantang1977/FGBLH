@@ -58,6 +58,46 @@
         "api": "http://www.meowtv.cn/js/drpy2.min.js"
         },
       {
+      "key": "秒看",
+      "name": "🦄秒看🔹4K源",
+      "type": 3,
+      "quickSearch": 1,
+            "jar": "https://xiuxiu-pro.meitudata.com/posters/5199d8f8bcbe3c6d6938ded33cb90596.png",
+      "api": "csp_AppGet",
+      "ext": {
+        "site": "https://mk1080.top/get.txt",
+        "dataKey": "c60d88b2eep53za8",
+        "dataIv": "c60d88b2eep53za8",
+        "token": "06caee3952a4c97d1ad4c766c875a99d3fa83aa68f46188823600d59ebba4469",
+        "ua": "okhttp/3.10.0"
+      }
+    },
+        {
+            "key": "秒看",
+            "name": "🦄凑合丨4K线路",
+            "type": 3,
+            "quickSearch": 1,
+            "jar": "https://xiuxiu-pro.meitudata.com/posters/5199d8f8bcbe3c6d6938ded33cb90596.png",
+            "api": "csp_AppGet",
+            "ext": {
+                "site": "https://mk1080.top/get.txt",
+                "dataKey": "c60d88b2eep53za8",
+                "dataIv": "c60d88b2eep53za8",
+                "token": "06caee3952a4c97d1ad4c766c875a99d3fa83aa68f46188823600d59ebba4469",
+                "ua": "okhttp/3.10.0"
+            }
+        },
+        {
+            "key": "还行",
+            "name": "🦄还行｜4K测试",
+            "jar": "https://xiuxiu-pro.meitudata.com/posters/5199d8f8bcbe3c6d6938ded33cb90596.png",
+            "type": 3,
+            "api": "csp_AppYs",
+            "searchable": 1,
+            "quickSearch": 1,
+            "ext": "http://m51.gotto.top/api.php/v1.vod"
+        },
+       {
       "key": "量子2k",
       "name": "🦄量子影视｜追剧",
       "type": 1,
