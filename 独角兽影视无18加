@@ -548,10 +548,10 @@
             "url": "https://tv.anboxtv.online/tv"
         },
         {
-            "name": "🦄SuperMyTV",
+            "name": "🦄MyTV",
             "type": 0,
             "ua": "okhttp/5.3.2",
-            "url": "http://xtvantsc.xyz/mytv.m3u"
+            "url": "https://tv.iill.top/m3u/MyTV"
         }, 
         {
             "name": "🦄jackTV(梯子)",
