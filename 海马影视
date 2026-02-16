@@ -713,16 +713,16 @@
             "url": "https://feer-cdn-bp.xpnb.qzz.io/xnkl.txt"
         },
        {
-            "name": "🦄亚麻蝶🔞",
-            "type": 0,
-            "ua": "okhttp",
-            "url": "https://cnbkk.cc.cd/亚麻蝶.m3u"
-        },
-       {
             "name": "🦄74源",
             "type": 0,
             "ua": "okhttp",
             "url": "https://im5k.fun/vip.m3u"
+        },
+        {
+            "name": "🦄综合直源",
+            "type": 0,
+            "ua": "okhttp",
+            "url": "http://www.xymm.de5.net:8080/live.m3u"
         },
         {
             "name": "🦄jackTV(梯子)",
@@ -735,6 +735,12 @@
             "type": 0,
             "ua": "okhttp",
             "url": "https://epg.pw/test_channels_taiwan.m3u"
+        },
+        {
+            "name": "🦄亚麻蝶🔞",
+            "type": 0,
+            "ua": "okhttp",
+            "url": "https://cnbkk.cc.cd/亚麻蝶.m3u"
         },
         {
             "name": "🦄安博(梯子)🔞",
