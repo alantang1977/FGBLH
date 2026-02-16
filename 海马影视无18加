@@ -58,7 +58,13 @@
         "ext": "http://www.meowtv.cn/js/meow.php?file=sgsp",
         "api": "http://www.meowtv.cn/js/drpy2.min.js"
         },
-         {
+        {
+			"api": "https://newtv.ggff.net/pingguo?token=dt7oO7x4",
+			"key": "嗷呜小苹果",
+			"name": "🦄小苹果｜追剧",
+			"type": 4
+		},
+        {
             "name": "🦄糖心｜追剧",
             "key": "TnewGr",
             "type": 3,
