@@ -719,6 +719,12 @@
             "url": "https://im5k.fun/vip.m3u"
         },
         {
+            "name": "🦄中港台直播源",
+            "type": 0,
+            "ua": "okhttp",
+            "url": "https://t.freetv.fun/m3u/playlist.txt"
+        },
+        {
             "name": "🦄综合直播源",
             "type": 0,
             "ua": "okhttp",
