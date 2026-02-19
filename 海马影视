@@ -280,7 +280,7 @@
         {
 			"key": "hipy_js_嗷呜动漫",
 			"name": "🦄嗷呜动漫｜动漫",
-			"type": 3,
+			"type": 4,
 			"api": "./drpy_libs/drpy2.min.js",
 			"searchable": 1,
 			"quickSearch": 1,
@@ -291,7 +291,7 @@
         {
 			"key": "hipy_js_包子漫画[画]",
 			"name": "🦄包子漫画｜动漫",
-			"type": 3,
+			"type": 4,
 			"api": "./drpy_libs/drpy2.min.js",
 			"searchable": 1,
 			"quickSearch": 1,
