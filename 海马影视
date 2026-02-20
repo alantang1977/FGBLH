@@ -762,6 +762,12 @@
             "url": "https://ghfast.top/https://raw.githubusercontent.com/FGBLH/FG/refs/heads/main/台湾立视"
         },
         {
+            "name": "🦄4GTV(梯子台湾节点)",
+            "type": 0,
+            "ua": "okhttp",
+            "url": "https://ghfast.top/https://raw.githubusercontent.com/FGBLH/FG/refs/heads/main/4gtv"
+        },
+        {
             "name": "🦄jackTV(梯子)",
             "type": 0,
             "ua": "okhttp",
