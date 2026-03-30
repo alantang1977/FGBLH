@@ -5,6 +5,20 @@
     "warningText": "学习使用，资源来源于网络，请勿贩卖，请加载24小时后删除，出现其他问题与作者无关，请知悉！",
     "sites": [
         {
+      "key": "xsa灏忛笩",
+      "name": "🐬小小影视",
+      "type": 3,
+      "searchable": 1,
+      "changeable": 1,
+      "api": "csp_AppGet",
+      "ext": {
+        "url": "http://154.222.26.58:7788",
+        "dataKey": "guodan2004031600",
+        "dataIv": "guodan2004031600",
+        "token": "fd035ffa03d62775add295bfbb7d99c131e0bb49bb9451309b0ffc4df1631146"
+      }
+      },
+        {
         "key":"爱奇艺弹幕",
         "name":"🐬爱奇艺视频 TG:@usfgrjk",
         "jar":"https://gitee.com/yiwu369/6758/raw/master/jar/spider.jar",
