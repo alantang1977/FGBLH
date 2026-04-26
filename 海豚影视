@@ -65,12 +65,18 @@
         "喜剧片"
       ]
       },
-   {
-      "key": "T4-qiyi",
-      "name": "影视-七壹APP",
-      "type": 4,
-      "api": "https://catbox.n13.club/ai/七壹APP.php"
-    },
+      {
+      "key": "nmys",
+      "name": "柠檬┃影视",
+      "type": 3,
+      "api": "csp_Nmvod",
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 1,
+      "playerType": 2,
+      "ext": "eaHR0cHM6Ly92aXAud3dnei5jbjo1MjAwL25tcGxheS93ZWJjbG91ZC9yZWxheS5waHA/dXJsPQ==",
+      "jar": "http://m1839732.ca.caoni.ru/8/meow.php;md5;CC57F10CB80E1BC9DF179A6129BD07B3"
+      },
             {    
             "key": "热播影视",
             "name": "🐬热播影视｜追剧",
