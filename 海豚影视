@@ -65,16 +65,14 @@
         "喜剧片"
       ]
       },
-       {
-            "key": "GuaZi",
+      {
+            "key": "guazi",
             "name": "🐬瓜子影视｜追剧",
             "type": 3,
-            "api": "csp_GuaZi",
+            "api": "csp_Guazi",
             "searchable": 1,
-            "changeable": 0,
-            "ext": {
-                "commonConfig": "./json/peizhi.json"
-            }
+            "changeable": 1,
+            "ext": {}
         },
         {    
             "key": "热播影视",
@@ -205,16 +203,6 @@
 			"name": "🐬动漫巴士｜动漫",
 			"type": 4,
 			"api": "https://py.doube.eu.org/v2/spider?site=6b5899d243816bacb8712de7ab6ceb89"
-		},
-        {
-			"key": "market",
-			"name": "🐬OK影视应用更新",
-			"type": 3,
-			"api": "csp_Market",
-			"searchable": 0,
-			"changeable": 0,
-			"ext": "https://down.nigx.cn/raw.githubusercontent.com/ediart/tvbox/refs/heads/main/lz/market.json",
-			"jar": "https://down.nigx.cn/raw.githubusercontent.com/ediart/tvbox/refs/heads/main/lz/fm.jar"
 		},
          {
             "key": "黄色仓库|AV",
