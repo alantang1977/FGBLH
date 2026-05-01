@@ -39,7 +39,7 @@
         "ext": "http://www.meowtv.cn/js/meow.php?file=sgsp",
         "api": "http://www.meowtv.cn/js/drpy2.min.js"
         },
-        {
+      {
       "key": "量子2k",
       "name": "🐬量子影视｜追剧",
       "type": 1,
@@ -65,12 +65,6 @@
         "喜剧片"
       ]
       },
-        {
-			"key": "爱瓜TV",
-			"name": "🐬爱瓜TV｜追剧",
-			"type": 4,
-			"api": "http://zhangqun1818.serv00.net/aigua1.php"
-		},
         {    
             "key": "热播影视",
             "name": "🐬热播影视｜追剧",
@@ -80,10 +74,10 @@
             "quickSearch": 1,
             "filterable": 0,
             "ext": {
-            "url": "http://v.rbotv.cn"
+                "url": "http://v.rbotv.cn"
             }
         },
-         {
+        {
             "key": "API_如意",
             "name": "🐬如意影视｜追剧",
             "type": 1,
@@ -128,7 +122,19 @@
         "港台动漫",
         "海外动漫"
          ]
-        },
+         },  
+        {
+			"key": "网易云音乐",
+			"name": "🐬网易云｜音乐",
+			"type": 3,
+			"api": "https://xn--fjq53n.xyz/Ting/yinyue/网易云音乐.py"
+		},
+		{
+			"key": "网易云音乐1",
+			"name": "🐬网易云1｜音乐",
+			"type": 3,
+			"api": "https://xn--fjq53n.xyz/Ting/yinyue/网易云音乐1.py"
+		},
         {
              "key": "hipy_js_酷我听书[听]",
              "name": "🐬酷我听书｜听书",
@@ -153,20 +159,10 @@
 			"name": "🐬动漫巴士｜动漫",
 			"type": 4,
 			"api": "https://py.doube.eu.org/v2/spider?site=6b5899d243816bacb8712de7ab6ceb89"
-		},
-        {
-			"key": "market",
-			"name": "🐬OK影视应用更新",
-			"type": 3,
-			"api": "csp_Market",
-			"searchable": 0,
-			"changeable": 0,
-			"ext": "https://down.nigx.cn/raw.githubusercontent.com/ediart/tvbox/refs/heads/main/lz/market.json",
-			"jar": "https://down.nigx.cn/raw.githubusercontent.com/ediart/tvbox/refs/heads/main/lz/fm.jar"
 		}
         ],
-    "parses": [
-            {
+    "parses": [ 
+          {
              "name": "虾米解析",
              "type": 0,
               "url": "https://jx.xmflv.cc/?url="
@@ -201,21 +197,21 @@
                 }
             }
         },
-         {
+          {
             "name": "春天",
             "type": 0,
             "url": "https://jx.2s0.cn/player/?url="
-        },
-        {
+          },
+      {
       "name": "极速",
       "type": 0,
       "url": "https://jiexi.789jiexi.net:4433/?url=",
       "ext": {
-        "header": {
-          "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36 Edg/110.0.1587.57"
-        }
-      }
-    },
+      "header": {
+      "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36 Edg/110.0.1587.57"
+    }
+  }
+},
     {
         "name": "大厂",
         "type": 0,
@@ -234,7 +230,7 @@
                 }
             }
         },  
-       {
+      {
       "name": "极速HD3",
       "type": 0,
       "url": "https://jx.yparse.com/index.php?url=",
@@ -254,7 +250,7 @@
         }
       }
     },
-     {
+    {
       "name": "极速HD6",
       "type": 0,
       "url": "https://bd.jx.cn/?url=",
@@ -264,7 +260,37 @@
         }
       }
     },
-     {
+  {
+            "name": "默认1",
+            "type": 1,
+            "url": "https://jx.m3u8.tv/jiexi/?url="
+        },
+        {
+            "name": "推荐2",
+            "type": 1,
+            "url": "https://www.1717yun.com/beiyongjiexi/?url="
+        },
+        {
+            "name": "线路3",
+            "type": 1,
+            "url": "https://jx.nnxv.cn/tv.php?url="
+        },
+         {
+            "name": "线路4",
+            "type": 1,
+            "url": "https://www.nxflv.com/?url="
+        },
+        {
+            "name": "线路5",
+            "type": 1,
+            "url": "https://jx.xmflv.com/?url="
+        },
+        {
+            "name": "线路6",
+            "type": 1,
+            "url": "https://jx.jsonplayer.com/player/?url="
+        },
+       {
       "group": "软解码",
       "options": [
         {
@@ -424,25 +450,25 @@
         }
       ]
     }
-  ],
-  "ads": [
+   ],
+    "ads": [
         "static-mozai.4gtv.tv"
     ],
 "lives": [
          {
-            "name": "🐬各大直播源合集",
+            "name": "🐬各大源合集",
             "type": 0,
             "ua": "okhttp/5.3.2",
             "url": "https://gh-proxy.org/https://raw.githubusercontent.com/807080747/zv/refs/heads/main/sese.txt"
-        }
+        }, 
          {
             "name": "🐬地方直播",
             "type": 0,
-            "ua": "okhttp",
-            "url": "https://raw.githubusercontent.com/develop202/migu_video/refs/heads/main/interface.txt"
+            "ua": "okhttp/5.3.2",
+            "url": "https://ghfast.top/https://raw.githubusercontent.com/develop202/migu_video/refs/heads/main/interface.txt"
         }, 
-        {
-            "name": "🐬地方直播2k",
+         {
+            "name": "🐬地方直播2",
             "type": 0,
             "ua": "okhttp/5.3.2",
             "url": "https://raw.githubusercontent.com/Guovin/iptv-api/gd/output/ipv4/result.m3u"
@@ -466,24 +492,24 @@
             "url": "https://iptv.yang-1989.eu.org/m3u/Gather.m3u"
         },
         {
-            "name": "🐬新港台频道",
+            "name": "🐬Mytv",
             "type": 0,
             "ua": "okhttp",
             "url": "https://cdn.qd.je/live.m3u"
         },
         {
-            "name": "🐬Mytv2",
+            "name": "🐬黄蚂蚁先锋推流源",
             "type": 0,
             "ua": "okhttp",
-            "url": "https://iptv.707626.xyz/sub/K5hMyUOy52A1rzUvV6s5pbADasExbi7x/playlist.m3u"
+            "url": "http://ge.html-5.me//ii/黄蚂蚁先锋推流源.txt"
         },
-         {
+        {
             "name": "🐬港台",
             "type": 0,
             "ua": "okhttp",
             "url": "https://feer-cdn-bp.xpnb.qzz.io/xnkl.txt"
         },
-         {
+        {
             "name": "🐬74源",
             "type": 0,
             "ua": "okhttp",
@@ -520,22 +546,22 @@
             "url": "https://ghfast.top/https://raw.githubusercontent.com/FGBLH/FG/refs/heads/main/4gtv"
         },
         {
-            "name": "🐬台湾频道(梯子台湾节点)",
-            "type": 0,
-            "ua": "okhttp",
-            "url": "https://epg.pw/test_channels_taiwan.m3u"
-        },
-        {
             "name": "🐬jackTV(梯子)",
             "type": 0,
             "ua": "okhttp",
             "url": "https://php.946985.filegear-sg.me/jackTV.m3u"
         },
         {
-            "name": "🐬playlist源",
+            "name": "🐬新港台频道",
             "type": 0,
-            "ua": "okhttp/5.3.2",
+            "ua": "okhttp",
             "url": "https://iptv.707626.xyz/sub/K5hMyUOy52A1rzUvV6s5pbADasExbi7x/playlist.m3u"
+        },
+        {
+            "name": "🐬台湾频道(梯子台湾节点)",
+            "type": 0,
+            "ua": "okhttp",
+            "url": "https://epg.pw/test_channels_taiwan.m3u"
         },
         {
             "name": "🐬港台大陆频道无18",
