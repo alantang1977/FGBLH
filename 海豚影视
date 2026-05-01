@@ -123,14 +123,6 @@
         "海外动漫"
          ]
          },
-         {"key": "csp_Kugou",
-"name": "🐬酷狗音乐｜音乐",
-"type": 3,
-"api": "csp_Kugou",
-"jar": "https://gitee.com/tianwikeji/jar/raw/master/Yoursmile.jar",
-"playerType": 2,
-"ext": {"classes": [{"type_name": "酷狗",
-"type_id": "kugou"}]}}, 
         {
 			"key": "网易云音乐",
 			"name": "🐬网易云｜音乐",
@@ -163,7 +155,7 @@
               "ext": "https://gitee.com/abiubiud/xxs/raw/main/dr2/爱上你听书网[听].js"
         },
         {
-			"key": "py_动漫巴士",
+			"key": "py_动漫巴士"
 			"name": "🐬动漫巴士｜动漫",
 			"type": 4,
 			"api": "https://py.doube.eu.org/v2/spider?site=6b5899d243816bacb8712de7ab6ceb89"
