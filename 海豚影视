@@ -1,6 +1,6 @@
 {
     "spider": "./tvbox.jar",
-    "logo": "https://ww3.sinaimg.cn/mw690/006qOrdQgy1i0w03zuxukj30qo11m41o.jpg",
+    "logo": "https://photo.16pic.com/00/31/77/16pic_3177186_b.jpg",
     "wallpaper":"http://tool.teyonds.com/api",
     "warningText": "学习使用，资源来源于网络，请勿贩卖，请加载24小时后删除，出现其他问题与作者无关，请知悉！",
     "sites": [
@@ -65,8 +65,8 @@
         "喜剧片"
       ]
       },
-      {
-       "key": "热播影视",
+        {    
+            "key": "热播影视",
             "name": "🐬热播影视｜追剧",
             "type": 3,
             "jar":"https://gitee.com/nm_nm/interface/raw/master/spider.jar;md5;06094f7f426755b6dd338459069a4e95",             "api": "csp_AppRJ",
@@ -122,7 +122,7 @@
         "港台动漫",
         "海外动漫"
          ]
-         },
+         },  
         {
 			"key": "网易云音乐",
 			"name": "🐬网易云｜音乐",
@@ -155,12 +155,12 @@
               "ext": "https://gitee.com/abiubiud/xxs/raw/main/dr2/爱上你听书网[听].js"
         },
         {
-			"key": "py_动漫巴士"
+			"key": "py_动漫巴士",
 			"name": "🐬动漫巴士｜动漫",
 			"type": 4,
 			"api": "https://py.doube.eu.org/v2/spider?site=6b5899d243816bacb8712de7ab6ceb89"
 		},
-       {
+        {
             "key": "🈲🔞Pornhub.py",
             "name": "🐬Pornhub｜🔞",
             "type": 3,
@@ -182,7 +182,7 @@
             "filterable": 1,
             "playerType": 2
          },
-          {
+         {
             "key": "csp_XYQHiker_jable",
             "name": "🐬Jable/日本AV｜🔞",
             "type": 3,
@@ -206,7 +206,8 @@
             "searchable": 1,
             "filterable": 0
         },
-        {
+         
+           {
             "key": "csp_XYQHiker_黄色仓库123",
             "name": "🐬黄色仓库｜🔞",
             "type": 3,
@@ -278,121 +279,6 @@
             "changeable": 1
         }
         ],
-"proxy": [
-    "raw.githubusercontent.com",
-    "googlevideo.com",
-    "googleapis.com",
-    "youtube.com"
-  ],
-  "rules": [
-    {
-      "name": "火山嗅探",
-      "hosts": [
-        "huoshan.com"
-      ],
-      "regex": [
-        "item_id="
-      ]
-    },
-    {
-      "name": "抖音嗅探",
-      "hosts": [
-        "douyin.com"
-      ],
-      "regex": [
-        "is_play_url="
-      ]
-    },
-    {
-      "name": "農民嗅探",
-      "hosts": [
-        "toutiaovod.com"
-      ],
-      "regex": [
-        "video/tos/cn"
-      ]
-    },
-    {
-      "name": "七新嗅探",
-      "hosts": [
-        "api.52wyb.com"
-      ],
-      "regex": [
-        "m3u8?pt=m3u8"
-      ]
-    },
-    {
-      "name": "毛驢點擊",
-      "hosts": [
-        "www.maolvys.com"
-      ],
-      "script": [
-        "document.getElementsByClassName('swal-button swal-button--confirm')[0].click()"
-      ]
-    }
-  ],
-  "headers": [
-    {
-      "host": "img\\d+.doubanio.com",
-      "header": {
-        "Referer": "https://movie.douban.com"
-      }
-    },
-    {
-      "host": "img1.doubanio.com",
-      "header": {
-        "Referer": "https://movie.douban.com"
-      }
-    },
-    {
-      "host": "img2.doubanio.com",
-      "header": {
-        "Referer": "https://movie.douban.com"
-      }
-    },
-    {
-      "host": "img3.doubanio.com",
-      "header": {
-        "Referer": "https://movie.douban.com"
-      }
-    },
-    {
-      "host": "img4.doubanio.com",
-      "header": {
-        "Referer": "https://movie.douban.com"
-      }
-    },
-    {
-      "host": "img5.doubanio.com",
-      "header": {
-        "Referer": "https://movie.douban.com"
-      }
-    },
-    {
-      "host": "img6.doubanio.com",
-      "header": {
-        "Referer": "https://movie.douban.com"
-      }
-    },
-    {
-      "host": "img7.doubanio.com",
-      "header": {
-        "Referer": "https://movie.douban.com"
-      }
-    },
-    {
-      "host": "img8.doubanio.com",
-      "header": {
-        "Referer": "https://movie.douban.com"
-      }
-    },
-    {
-      "host": "img9.doubanio.com",
-      "header": {
-        "Referer": "https://movie.douban.com"
-      }
-    }
-  ],
     "parses": [ 
           {
              "name": "虾米解析",
@@ -683,24 +569,12 @@
       ]
     }
    ],
-"flags": [
-    "youku",
-    "qq",
-    "iqiyi",
-    "qiyi",
-    "letv",
-    "sohu",
-    "tudou",
-    "pptv",
-    "mgtv",
-    "wasu"
-  ],
     "ads": [
         "static-mozai.4gtv.tv"
     ],
 "lives": [
          {
-            "name": "🐬各大直播源合集",
+            "name": "🐬各大源合集",
             "type": 0,
             "ua": "okhttp/5.3.2",
             "url": "https://gh-proxy.org/https://raw.githubusercontent.com/807080747/zv/refs/heads/main/sese.txt"
@@ -740,12 +614,6 @@
             "type": 0,
             "ua": "okhttp",
             "url": "https://cdn.qd.je/live.m3u"
-        },
-        {
-            "name": "🐬新港台频道",
-            "type": 0,
-            "ua": "okhttp",
-            "url": "https://iptv.707626.xyz/sub/K5hMyUOy52A1rzUvV6s5pbADasExbi7x/playlist.m3u"
         },
         {
             "name": "🐬黄蚂蚁先锋推流源",
@@ -802,6 +670,12 @@
             "url": "https://php.946985.filegear-sg.me/jackTV.m3u"
         },
         {
+            "name": "🐬新港台频道",
+            "type": 0,
+            "ua": "okhttp",
+            "url": "https://iptv.707626.xyz/sub/K5hMyUOy52A1rzUvV6s5pbADasExbi7x/playlist.m3u"
+        },
+        {
             "name": "🐬台湾频道(梯子台湾节点)",
             "type": 0,
             "ua": "okhttp",
@@ -825,7 +699,7 @@
             "ua": "okhttp",
             "url": "https://ghfast.top/https://raw.githubusercontent.com/FGBLH/FG/refs/heads/main/xxx视频资源"
         },
-         {
+        {
             "name": "🐬欧美大片直播🔞",
             "type": 0,
             "ua": "okhttp",
