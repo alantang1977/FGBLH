@@ -39,6 +39,14 @@
         "ext": "http://www.meowtv.cn/js/meow.php?file=sgsp",
         "api": "http://www.meowtv.cn/js/drpy2.min.js"
         },
+        {
+      "key": "WexGuaZi",
+      "name": "🐬瓜子┃秒播",
+      "type": 3,
+      "api": "csp_WexGuaZiGuard",
+      "searchable": 1,
+      "changeable": 1
+       },
       {
       "key": "量子2k",
       "name": "🐬量子影视｜追剧",
@@ -669,7 +677,8 @@
     }
    ],
     "ads": [
-        "static-mozai.4gtv.tv"
+        "static-mozai.4gtv.tv",
+        "pv.vipwm.cc"
     ],
 "lives": [
          {
