@@ -40,7 +40,6 @@
         "api": "http://www.meowtv.cn/js/drpy2.min.js"
         },
 {"key": "华视影院","name": "🐬华视影院｜追剧","type": 4,"api": "http://zhangqun1818.serv00.net:5052/?sp=华视影院","searchable": 1,"quickSearch": 1,"filterable": 1},
-        {
       {
       "key": "量子2k",
       "name": "🐬量子影视｜追剧",
