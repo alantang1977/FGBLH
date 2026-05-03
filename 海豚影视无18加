@@ -125,6 +125,16 @@
          ]
          },  
         {
+            "key": "七星短剧",
+            "name": "🐬七星丨短剧",
+            "type": 3,
+            "api": "https://mpimg.cn/down.php/48e9d346cdf6da376c53136693bec95a.py",
+            "searchable": 1,
+            "changeable": 1,
+            "quickSearch": 1,
+            "filterable": 1
+        },
+        {
 			"key": "网易云音乐",
 			"name": "🐬网易云｜音乐",
 			"type": 3,
