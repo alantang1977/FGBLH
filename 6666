@@ -11,11 +11,11 @@
             "homePage": "https://www.252035.xyz/xs/tvbox/nostr.html"
         },
         {
-            "key": "Nostr测试",
-            "name": "测试",
+            "key": "52tv",
+            "name": "52tv",
             "type": 3,
-            "api": "csp_Nostr",
-            "homePage": "https://www.252035.xyz/xs/tvbox/test.html"
+            "api": "csp_52tv",
+            "homePage": "./html/52tv.html"
         },
         {
             "key": "豆瓣",
