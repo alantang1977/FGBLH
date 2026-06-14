@@ -696,8 +696,8 @@
             "name": "🐬综合直播 海豚影视交流群 TG：@hshsjk9",
             "type": 0,
             "playerType": 2,
-            "url": "https://raw.githubusercontent.com/fleung49/star/refs/heads/main/mit"
-            "ua": "okhttp"
+            "ua": "okhttp",
+			"url": "https://raw.githubusercontent.com/fleung49/star/refs/heads/main/mit"
          },
 	     {
             "name": "🐬电视家",
