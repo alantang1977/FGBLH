@@ -569,12 +569,6 @@
             "ua": "okhttp",
             "url": "https://ha.msbot.dpdns.org/wall.php"
         }, 
-	    {
-            "name": "🐬多源直播",
-            "type": 0,
-            "ua": "okhttp/5.3.2",
-            "url": "http://tv.anbox.ip-ddns.com/live"
-        }, 
         {
             "name": "🐬港台",
             "type": 0,
