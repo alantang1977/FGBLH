@@ -130,7 +130,7 @@
       },
 		{
             "key": "油管so",
-            "name": "油管🤡so(老张)",
+            "name": "🐬油管",
             "type": 3,
             "api": "csp_Ytdl",
             "searchable": 1,
@@ -148,7 +148,7 @@
         },
        {
             "key": "华人so",
-            "name": "华人🤡so(老张)",
+            "name": "🐬华人",
             "type": 3,
             "api": "csp_Hua",
             "jar": "https://files.catbox.moe/hmml4f.txt",
