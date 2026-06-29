@@ -101,16 +101,22 @@
 			"api": "https://ghfast.top/https://raw.githubusercontent.com/FGBLH/GHK/refs/heads/main/py/熊猫直播.py"
 		},
 		{
-			"key": "fY",
-			"name": "🐬枫叶影院.py(关梯子使用)",
-			"type": 3,
-			"api": "https://ghfast.top/https://raw.githubusercontent.com/FGBLH/GHK/refs/heads/main/py/枫叶影院.py"
-		},
-		{
 			"key": "rb",
 			"name": "🐬热播APP.py",
 			"type": 3,
 			"api": "https://ghfast.top/https://raw.githubusercontent.com/FGBLH/GHK/refs/heads/main/py/热播APP.py"
+		},
+		{
+			"key": "JP",
+			"name": "🐬金牌APP.py",
+			"type": 3,
+			"api": "https://ghfast.top/https://raw.githubusercontent.com/FGBLH/GHK/refs/heads/main/py/金牌APP.py"
+		},
+		{
+			"key": "fY",
+			"name": "🐬枫叶影院.py(关梯子使用)",
+			"type": 3,
+			"api": "https://ghfast.top/https://raw.githubusercontent.com/FGBLH/GHK/refs/heads/main/py/枫叶影院.py"
 		},
 		{
         "key":"FY",
