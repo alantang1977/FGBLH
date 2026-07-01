@@ -52,30 +52,6 @@
       "api": "https://ghfast.top/https://raw.githubusercontent.com/FGBLH/GHK/refs/heads/main/py/芒果TV.py"
        },
 		{
-            "key": "leo_danmaku",
-            "name": "LEO | 弹幕",
-            "type": 3,
-            "api": "csp_DanmakuSpider",
-            "searchable": 1,
-            "changeable": 0,
-            "index": 1,
-   "jar": "https://gh-proxy.org/https://github.com/Silent1566/CatVodSpider/raw/refs/heads/main/jar/danmu.jar",
-            "ext": {
-                "apiUrls": [
-                    "https://dm.660505.xyz:8443/a123456|W佬",
-"https://danmaku.banye.tech:17777/87654321"
-                ],
-                "autoPushEnabled": true,
-                "silentMode": true,
-                "danmakuStyle": "经典模式",
-                "proxyPort": 5575,
-                "lpAlpha": 0.9,
-                "lpWidth": 0.9,
-                "lpHeight": 0.85,
-                "titleMappingsUrl": "https://gh-proxy.com/https://raw.githubusercontent.com/goodcommunication/mydm/main/yins.json"
-            }
-        },
-		{
       "key": "ppx",
       "name": "🐬皮皮虾.py",
       "type": 3,
@@ -147,6 +123,12 @@
 			"name": "🐬哔哩直播.py",
 			"type": 3,
 			"api": "https://ghfast.top/https://raw.githubusercontent.com/FGBLH/GHK/refs/heads/main/py/哔哩直播.py"
+		},
+		{
+			"key": "jhzb",
+			"name": "🐬聚合直播.py",
+			"type": 3,
+			"api": "https://ghfast.top/https://raw.githubusercontent.com/FGBLH/GHK/refs/heads/main/py/聚合直播.py"
 		},
 		{"key": "aidan", "name": "🐬艾旦影视(聚)(有三级片)🔞", "type": 1, "api": "https://lovedan.net/api.php/provide/vod/", "searchable": 1, "quickSearch": 1, "filterable": 1},
 		{"key": "ikun", "name": "🐬爱坤┃影视(有三级片)", "type": 1, "api": "https://ikunzyapi.com/api.php/provide/vod/from/ikm3u8/at/json", "searchable": 1, "quickSearch": 1, "filterable": 1},
