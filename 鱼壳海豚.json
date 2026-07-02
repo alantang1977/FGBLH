@@ -144,6 +144,12 @@
 			"api": "https://ghfast.top/https://raw.githubusercontent.com/FGBLH/GHK/refs/heads/main/py/毒舌影视.py"
 		},
 		{
+           "key": "qw",
+           "name": "🐬七味.py[追剧]",
+           "type": 3,
+           "api": "https://ghfast.top/https://raw.githubusercontent.com/FGBLH/GHK/refs/heads/main/py/七味.py"
+        },
+		{
 			"key": "cjjh",
 			"name": "🐬采集聚合.py[追剧]",
 			"type": 3,
