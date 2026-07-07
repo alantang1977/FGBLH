@@ -113,7 +113,7 @@ class Spider(Spider):
             "vod_pic": str(user['avatarUrl']),
             "vod_director": f"{flag}{username}{isLive}",
             "vod_remarks": remark,
-            'vod_play_from': 'StripChat',
+            'vod_play_from': 'StripChat线路',
             'vod_play_url': f"{id}${id}"
         }]
         result = {}
