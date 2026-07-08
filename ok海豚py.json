@@ -16,6 +16,13 @@
           "type": 3,
           "api": "https://ghfast.top/https://raw.githubusercontent.com/FGBLH/HKL/refs/heads/main/py/腾讯视频.py"
         },
+		
+		{
+          "key": "iqy",
+          "name": "🐬爱奇艺.py",
+          "type": 3,
+          "api": "https://ghfast.top/https://raw.githubusercontent.com/FGBLH/HKL/refs/heads/main/py/爱奇艺.py"
+        },
 		{
           "key": "YK",
           "name": "🐬优酷视频.py",
