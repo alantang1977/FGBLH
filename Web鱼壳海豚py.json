@@ -657,6 +657,12 @@
             "ua": "okhttp",
             "url": "https://ha.msbot.dpdns.org/4gtv_api.php"
         },
+		{
+            "name": "🐬4GTV(免梯子)1080p",
+            "type": 0,
+            "ua": "okhttp",
+            "url": "http://4gtv.cnlive.club/4gtv.m3u"
+        },
         {
             "name": "🐬安博(梯子)卡顿 有🔞",
             "type": 0,
