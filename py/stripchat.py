@@ -211,7 +211,7 @@ class Spider(Spider):
     elif status == 'public':
       status_text = '🔴 直播中'
     else:
-      status_text = '🎫 门票房'
+      status_text = '收费房'
 
     return f'👤 {viewers}人 | {status_text}' if viewers else status_text
 
@@ -334,7 +334,7 @@ class Spider(Spider):
       director = f'{flag}{username}'
       desc = self.get_danmaku_desc(uid)
 
-      vod_play_from = '飞鱼高清$$$标清线路二$$$标清线路三'
+      vod_play_from = '高清线路$$$标清线路二$$$标清线路三'
       vod_play_url = (
           f'主线路${uid}$$$备用线路$lemon_{uid}$$$备用线路三$sacf_{uid}'
       )
